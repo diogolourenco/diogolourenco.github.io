@@ -251,7 +251,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: [Lourenço]
-  first_name: [Diogo, D.]
+  first_name: [Diogo L., D.L., Diogo L]
 
   style: apa
   locale: en
